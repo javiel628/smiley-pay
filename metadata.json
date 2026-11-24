@@ -1,0 +1,6 @@
+{
+  "name": "BETKENYA 254",
+  "description": "BETKENYA 254 Aviator crash arena with live provably-fair odds generation, dual betting panels, and KES wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
